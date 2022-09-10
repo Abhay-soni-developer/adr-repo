@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: adr-repo
+  annotations:
+    github.com/project-slug: Abhay-soni-developer/adr-repo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
